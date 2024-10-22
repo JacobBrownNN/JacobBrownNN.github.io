@@ -1,4 +1,3 @@
-/* General styles */
 body {
     font-family: Arial, sans-serif;
     background-color: #f9f9f9;
@@ -16,14 +15,13 @@ body {
     border: 1px solid #ddd;
 }
 
-/* Header */
 h1 {
     text-align: center;
     color: #333;
     margin-bottom: 20px;
 }
 
-/* Sections */
+
 .about, .skills, .projects, .contact {
     margin-bottom: 30px;
 }
@@ -33,8 +31,7 @@ h2 {
     margin-bottom: 10px;
 }
 
-/* Skills list */
-.skills ul {
+.skills li {
     list-style-type: square;
     padding-left: 20px;
 }
@@ -43,7 +40,7 @@ h2 {
     margin-bottom: 5px;
 }
 
-/* Project Section */
+
 .project {
     margin-bottom: 20px;
 }
@@ -58,12 +55,11 @@ h2 {
     margin-top: 10px;
 }
 
-/* Contact Section */
 .contact p {
     font-size: 1rem;
 }
 
-/* Links */
+
 a {
     text-decoration: underline;
     color: #333;
