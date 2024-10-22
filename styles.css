@@ -68,3 +68,8 @@ a {
 a:hover {
     color: #666;
 }
+.rotate-image {
+    transform: rotate(90deg);
+    display: block; 
+    margin: 10px 0; 
+}
